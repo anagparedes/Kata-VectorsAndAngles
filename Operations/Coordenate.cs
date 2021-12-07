@@ -35,6 +35,6 @@ namespace Operations
             double angle = Math.Atan2(y.Y, y.X) - Math.Atan2(x.Y, x.X);
             return angle;
         }
-     
     }
+
 }
