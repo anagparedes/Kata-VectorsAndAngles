@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Description>AngleBetween(other: Vector) : double</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>KataVectorOperations</PackageId>
+    <Authors>Ana Paredes</Authors>
+    <Product>Operations to vector</Product>
+    <Company>Ana Paredes</Company>
+    <PackageIcon>Programmer.png</PackageIcon>
+    <PackageIconUrl />
+    <Version>3.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Backgrounds\Walls\Programmer.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
